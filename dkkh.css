@@ -1,0 +1,29 @@
+table{
+	border: 2px;
+	border-style: solid;
+	width: 340px;
+	border-spacing: 1px;
+}
+
+tr,td{
+	border: none;
+	
+}
+
+
+input{
+	
+	border: 1px solid #33CCFF;
+	background-color: #99FFFF;
+	width: 150px;
+	
+}
+
+.tr1{
+	background-color: gray;
+	color: white;
+}
+
+.sao{
+	color: red;
+}
